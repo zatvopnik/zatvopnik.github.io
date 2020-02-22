@@ -1,0 +1,19 @@
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+	margin-left:70px;
+	margin-bottom:30px;
+	margin-top: 30px;
+}
+
+.tooltip{
+	color:#ffffff;
+	border-bottom: 1px dotted #0077AA;
+	position: relative;
+}
+.tooltip-before{
+    display: block;
+    position: absolute;
+} 
